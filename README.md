@@ -1,1 +1,23 @@
-# Nazari-Fatemeh
+🌟 Hi! I'm Fatemeh — a passionate frontend developer focused on building clean, responsive, and user-friendly web applications.
+
+🔗 Links
+
+GitHub: github.com/Nazari-Fatemeh
+
+LinkedIn: fatemeh-nazari
+
+🛠️ Skills
+
+HTML5 / CSS3
+
+JavaScript (ES6+)
+
+React
+
+Next
+
+Git & GitHub
+
+📩 Contact
+
+Email: Fatemeh79.nazari@gmail.com
